@@ -1,1 +1,1 @@
-A Kernel module that print all the process on the terminal
+A Kernel module that print all tasks on the terminal
